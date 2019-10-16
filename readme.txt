@@ -1,9 +1,8 @@
-sh shellbackup.sh·Î ½ºÅ©¸³Æ® ÆÄÀÏÀ» ½ÇÇàÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-°á°ú ÆÄÀÏ·Î ÃÑ 9°¡ÁöÀÌ¸ç
+sh shellbackup.shë¡œ ìŠ¤í¬ë¦½íŠ¸ íŒŒì¼ì„ ì‹¤í–‰í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
 
-localhost.localdomain_2019-10-16_02_56_01.txt´Â Àü¹ÝÀûÀÎ Áø´Ü °á°úÀÔ´Ï´Ù.
+localhost.localdomain_2019-10-16_02_56_01.txtëŠ” ì „ë°˜ì ì¸ ì§„ë‹¨ ê²°ê³¼ìž…ë‹ˆë‹¤.
 
-³ª¸ÓÁö ÆÄÀÏµéÀº Áø´Ü °á°ú È®ÀÎ½Ã Âü°íÇÒ ¼ö ÀÖ´Â ³»¿ëÀ» µû·Î ºÐ¸®Çß½À´Ï´Ù.
+ë‚˜ë¨¸ì§€ íŒŒì¼ë“¤ì€ ì§„ë‹¨ ê²°ê³¼ í™•ì¸ì‹œ ì°¸ê³ í•  ìˆ˜ ìžˆëŠ” ë‚´ìš©ì„ ë”°ë¡œ ë¶„ë¦¬í–ˆìŠµë‹ˆë‹¤.
 
-sh shellbackup.sh ³»¿¡ ¾î¶² Áø´ÜÇ×¸ñÀÇ ¸ñÀû°ú À§ÇùµîÀ» ÁÖ¼®À¸·Î ¸Þ¸ðÇÏ¸ç °øºÎÇß½À´Ï´Ù.
+sh shellbackup.sh ë‚´ì— ê° ì§„ë‹¨í•­ëª©ì˜ ëª©ì ê³¼ ìœ„í˜‘, ì°¸ê³ ì‚¬í•­ì„ ì£¼ì„ìœ¼ë¡œ ì¶”ê°€í•˜ë©° ê³µë¶€í–ˆìŠµë‹ˆë‹¤.
