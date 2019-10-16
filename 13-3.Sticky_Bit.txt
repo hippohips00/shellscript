@@ -1,0 +1,9 @@
+/var/cache/gdm
+/var/tmp
+/var/gdm
+/var/log/gdm
+/var/spool/cups/tmp
+/tmp
+/tmp/.ICE-unix
+/tmp/.X11-unix
+/dev/shm

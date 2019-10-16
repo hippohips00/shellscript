@@ -1,0 +1,4 @@
+/etc/xinetd.d/rexec
+/etc/xinetd.d/rlogin
+/etc/xinetd.d/rsh
+/etc/xinetd.d/rsync
